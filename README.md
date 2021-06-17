@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ycicic
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning bigdata and deeper Java
+- 📫 How to reach me ycicic9262426@gmail.com
